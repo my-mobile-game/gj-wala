@@ -1,0 +1,23 @@
+{
+    "dispaly":true,
+    "title": "Try Our Other Exciting Games",
+    "text": "Immerse yourself in a world of endless fun. Install now to explore more thrilling adventures!",
+    "games": [
+        {
+            "imageUrl": "https://i.ibb.co/2YZw1JN/GTE-SPIDER-2.png",
+            "trafficUrl": "https://www.instagram.com/oussama_qaiboub/"
+        },
+        {
+            "imageUrl": "https://i.ibb.co/2YZw1JN/GTE-SPIDER-2.png",
+            "trafficUrl": "https://www.instagram.com/oussama_qaiboub/"
+        },
+        {
+            "imageUrl": "https://i.ibb.co/2YZw1JN/GTE-SPIDER-2.png",
+            "trafficUrl": "https://www.instagram.com/oussama_qaiboub/"
+        },
+        {
+            "imageUrl": "https://i.ibb.co/2YZw1JN/GTE-SPIDER-2.png",
+            "trafficUrl": "https://www.instagram.com/oussama_qaiboub/"
+        }
+    ]
+}

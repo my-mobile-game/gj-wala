@@ -1,0 +1,16 @@
+{
+  "bannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+  "interAdmob": "ca-app-pub-3940256099942544/1033173712",
+  "rewordAdmob": "ca-app-pub-3940256099942544/5354046379",
+  "sdkKey": "",
+  "bannerApplovin": "",
+  "interApplovin": "",
+  "rewordApplovin": "",
+  "gameId": "",
+  "bannerUnity": "Banner_Android",
+  "interUnity": "Interstitial_Android",
+  "rewordUnity":"Rewarded_Android",
+  "bannerFan": "",
+  "interFan": "",
+  "rewordFan":""
+}
